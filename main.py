@@ -1,0 +1,3 @@
+import TwoFourSevenFreePoker as TwoFourSevenFreePoker
+
+TwoFourSevenFreePoker.play()
