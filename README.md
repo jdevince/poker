@@ -2,6 +2,8 @@
 
 Project goal: Build an automated poker player which learns via machine learning and is capable of playing on websites
 
+Purpose: Learning on selenium, OCR, and ML
+
 
 	Steps:
   	1. Build automated poker player for a single site without ML
